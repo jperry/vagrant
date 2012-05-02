@@ -1,5 +1,6 @@
 #!/usr/bin/env ruby
 require 'log4r'
+require 'bundler/setup'
 require 'vagrant'
 require 'vagrant/cli'
 require 'vagrant/util/platform'
